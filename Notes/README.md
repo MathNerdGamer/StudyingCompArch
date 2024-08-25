@@ -1,3 +1,3 @@
 ## Notes
 
-(Currently Empty)
+* [Introduction to Digital Design & Computer Architecture](./01.Introduction.md)
